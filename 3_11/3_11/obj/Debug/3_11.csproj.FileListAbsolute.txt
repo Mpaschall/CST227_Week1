@@ -1,0 +1,5 @@
+c:\users\xdark\documents\visual studio 2015\Projects\3_11\3_11\bin\Debug\3_11.exe.config
+c:\users\xdark\documents\visual studio 2015\Projects\3_11\3_11\bin\Debug\3_11.exe
+c:\users\xdark\documents\visual studio 2015\Projects\3_11\3_11\bin\Debug\3_11.pdb
+c:\users\xdark\documents\visual studio 2015\Projects\3_11\3_11\obj\Debug\3_11.exe
+c:\users\xdark\documents\visual studio 2015\Projects\3_11\3_11\obj\Debug\3_11.pdb

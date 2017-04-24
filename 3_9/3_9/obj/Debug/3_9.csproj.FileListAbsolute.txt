@@ -1,0 +1,6 @@
+c:\users\xdark\documents\visual studio 2015\Projects\3_9\3_9\bin\Debug\3_9.exe.config
+c:\users\xdark\documents\visual studio 2015\Projects\3_9\3_9\bin\Debug\3_9.exe
+c:\users\xdark\documents\visual studio 2015\Projects\3_9\3_9\bin\Debug\3_9.pdb
+c:\users\xdark\documents\visual studio 2015\Projects\3_9\3_9\obj\Debug\3_9.csprojResolveAssemblyReference.cache
+c:\users\xdark\documents\visual studio 2015\Projects\3_9\3_9\obj\Debug\3_9.exe
+c:\users\xdark\documents\visual studio 2015\Projects\3_9\3_9\obj\Debug\3_9.pdb
