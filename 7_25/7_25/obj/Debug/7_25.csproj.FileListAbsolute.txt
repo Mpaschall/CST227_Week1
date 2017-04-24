@@ -1,0 +1,6 @@
+c:\users\xdark\documents\visual studio 2015\Projects\7_25\7_25\bin\Debug\7_25.exe.config
+c:\users\xdark\documents\visual studio 2015\Projects\7_25\7_25\bin\Debug\7_25.exe
+c:\users\xdark\documents\visual studio 2015\Projects\7_25\7_25\bin\Debug\7_25.pdb
+c:\users\xdark\documents\visual studio 2015\Projects\7_25\7_25\obj\Debug\7_25.csprojResolveAssemblyReference.cache
+c:\users\xdark\documents\visual studio 2015\Projects\7_25\7_25\obj\Debug\7_25.exe
+c:\users\xdark\documents\visual studio 2015\Projects\7_25\7_25\obj\Debug\7_25.pdb
